@@ -16,47 +16,27 @@ BREW_PREFIX=$(brew --prefix)
 brew tap homebrew/cask
 
 ## Apps I use
-brew install 4k-video-downloader
 brew install 1password
+brew install drawio
+brew install grandtotal
 brew install google-chrome #Chrome
 brew install firefox
-brew install homebrew/cask-versions/firefox-nightly # Nightly
-brew install homebrew/cask-versions/google-chrome-canary # Chrome Canary
-brew install adobe-acrobrat-pro
-brew install adobe-creative-cloud
-brew install astropad
-brew install backblaze
-brew install deckset
 brew install docker
 brew install github # GitHub Desktop
-brew install grammarly
-brew install hyper
-brew install kap
-brew install insomnia
 brew install imageoptim
-brew install intellij-idea-ce
-brew install krisp
+brew install iterm2
+brew install jitsi-meet
 brew install macdown
-brew install microsoft-edge
-brew install microsoft-office
-brew install microsoft-outlook
-brew install microsoft-powerpoint
-brew install microsoft-word
+brew install microsoft-teams
 brew install muzzle
-brew install notion
-brew install postman
-brew install protonvpn
-brew install rescuetime
-brew install sketch
+brew install phpstorm
+brew install rocket-chat
+brew install sequel-pro
+brew install shiftit
 brew install slack
 brew install spotify
-brew install screenflow
-brew install streamlabs-obs
-brew install send-to-kindle
-brew install whatsapp
-brew install youtube-to-mp3
-brew install visual-studio-code
-brew install zeplin
+brew install sublime-text
+brew install transmit
 brew install zoom
 
 # Remove outdated versions from the cellar.
