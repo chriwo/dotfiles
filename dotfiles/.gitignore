@@ -31,6 +31,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+.idea
+nbproject
+typo3cms
+
 #########################################################
 # SublimeText
 # Created by https://www.gitignore.io/api/sublimetext
