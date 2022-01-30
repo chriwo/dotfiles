@@ -31,7 +31,7 @@ brew install microsoft-teams
 brew install muzzle
 brew install phpstorm
 brew install rocket-chat
-brew install sequel-pro
+brew install sequel-ace
 brew install shiftit
 brew install slack
 brew install spotify
