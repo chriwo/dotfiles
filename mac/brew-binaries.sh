@@ -7,7 +7,9 @@ brew install drud/ddev/ddev
 brew install mkcert
 
 # Install useful binaries.
+brew install composer
 brew install git
+brew install git-flow
 brew install git-lfs
 brew install lnav
 brew install rsync
